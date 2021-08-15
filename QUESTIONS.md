@@ -3,6 +3,7 @@
 - The nested reduce calculation (delta diffing) could be moved into a web-worker.
 - I would start with handling the totals on the ui side :D
 - I would have tested my hooks as well
+- The semi-transparent bars which visually indicate the number of asks/bids
 
 ## 2. What would you have done differently if you knew this page was going to get thousands of views per second vs per week?
 
@@ -43,3 +44,4 @@ Depends on the subject, but if we are talking about webapplications
 - I'd probably return the types I've created called NBook which has the price as an object key in the result, since this makes its easier to update the current state with the delta, and it's also more efficient than using arrays.
 - Im also not sure about what kind of configuration can I send with the connection, but tweaking with the emit frequency should be nice. I'm not sure if there's an option to aggregate things on the backend until a new emit is happening, but it seems like the sample application updated around every second, so that would make things easier on the frontend.
 - I would really rather send a different data-structure, which makes the diffing with the state easier, but I'm not sure if I was the one overengineering it.
+- The grouping is confusing on the demo, 0
