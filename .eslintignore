@@ -1,0 +1,6 @@
+**/*/utilsTestHelpers.ts
+/node_modules
+/dist
+/build
+/.next/
+/**/*.js

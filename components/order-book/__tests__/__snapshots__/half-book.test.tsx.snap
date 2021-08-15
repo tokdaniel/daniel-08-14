@@ -1,0 +1,579 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HalfBook renders asks correctly 1`] = `
+Array [
+  <div
+    className="sc-gKAaRy cPTABi"
+  >
+    <div
+      className="sc-iCoGMd dZYJlD"
+    >
+      <div
+        className="sc-fujyAs dbumup"
+      >
+        <div
+          className="sc-bdnxRM fmZhhZ"
+        >
+          price
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM fmZhhZ"
+        >
+          size
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM fmZhhZ"
+        >
+          total
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47602.5
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          2500
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          2500
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47603
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          1808
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          4308
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47610
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          2500
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          6808
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47610.5
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          4043
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          10851
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47613
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          2500
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          13351
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47614
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          1986
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          15337
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47614.5
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          2500
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          17837
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs lowjsu"
+      >
+        <div
+          className="sc-bdnxRM cBeHvK"
+        >
+          47615.5
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          1070
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          18907
+        </div>
+      </div>
+    </div>
+  </div>,
+  ",",
+]
+`;
+
+exports[`HalfBook renders bids correctly 1`] = `
+Array [
+  <div
+    className="sc-gKAaRy cPTABi"
+  >
+    <div
+      className="sc-iCoGMd dZYJlD"
+    >
+      <div
+        className="sc-fujyAs dbumup"
+      >
+        <div
+          className="sc-bdnxRM fmZhhZ"
+        >
+          price
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM fmZhhZ"
+        >
+          size
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM fmZhhZ"
+        >
+          total
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47599.5
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          171
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          171
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47597
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          1070
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          1241
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47592
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          4479
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          5720
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47590.5
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          170496
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          176216
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47590
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          5819
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          182035
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47589.5
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          2031
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          184066
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47588
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          2500
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          186566
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iCoGMd crrWzt"
+    >
+      <div
+        className="sc-fujyAs cGFeBn"
+      >
+        <div
+          className="sc-bdnxRM jjbfsL"
+        >
+          47586
+        </div>
+      </div>
+      <div
+        className="sc-pNWdM iJTsUG"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          26700
+        </div>
+      </div>
+      <div
+        className="sc-jrsJWt gpLwsY"
+      >
+        <div
+          className="sc-bdnxRM cLcjEa"
+        >
+          213266
+        </div>
+      </div>
+    </div>
+  </div>,
+  ",",
+]
+`;

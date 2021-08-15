@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spread renders correctly 1`] = `
+Array [
+  <div
+    className="sc-hKFxyN WQCFw"
+  >
+    <div
+      className="sc-eCApnc pJRi"
+    >
+      <div
+        className="sc-bdnxRM ddgugd"
+      >
+        SPREAD
+      </div>
+      <div
+        className="sc-gtsrHT dVvDsX"
+      >
+        <div
+          className="sc-bdnxRM jDkucz"
+        >
+          group: 
+          25
+        </div>
+        <button
+          className="sc-dlnjwi gTMfzH"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="sc-dlnjwi gTMfzH"
+          onClick={[Function]}
+        >
+          −
+        </button>
+      </div>
+    </div>
+    <div
+      className="sc-jSFjdj bclzYn"
+    >
+      <div
+        className="sc-bdnxRM kyahsn"
+      >
+        percentage: 
+      </div>
+      <div
+        className="sc-bdnxRM cLcjEa"
+      >
+        0
+        %
+      </div>
+    </div>
+    <div
+      className="sc-jSFjdj bclzYn"
+    >
+      <div
+        className="sc-bdnxRM kyahsn"
+      >
+        value: 
+      </div>
+      <div
+        className="sc-bdnxRM cLcjEa"
+      >
+        0
+         USD
+      </div>
+    </div>
+    <div
+      className="sc-jSFjdj bclzYn"
+    >
+      <div
+        className="sc-bdnxRM kyahsn"
+      >
+        Highest Bid: 
+      </div>
+      <div
+        className="sc-bdnxRM jjbfsL"
+      >
+        0
+         USD
+      </div>
+    </div>
+    <div
+      className="sc-jSFjdj bclzYn"
+    >
+      <div
+        className="sc-bdnxRM kyahsn"
+      >
+        Lowest Offer: 
+      </div>
+      <div
+        className="sc-bdnxRM cBeHvK"
+      >
+        0
+         USD
+      </div>
+    </div>
+  </div>,
+  ",",
+]
+`;

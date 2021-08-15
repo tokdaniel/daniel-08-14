@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text renders correctly 1`] = `
+Array [
+  <div
+    className="sc-bdnxRM dgVgsH"
+  />,
+  <div
+    className="sc-bdnxRM knLCNz"
+  />,
+  <div
+    className="sc-bdnxRM gFJuKx"
+  />,
+  <div
+    className="sc-bdnxRM lfHdrH"
+  />,
+  <div
+    className="sc-bdnxRM ddgugd"
+  />,
+  <div
+    className="sc-bdnxRM ejWiHb"
+  />,
+  <div
+    className="sc-bdnxRM cLcjEa"
+  />,
+  <div
+    className="sc-bdnxRM kyahsn"
+  />,
+  <div
+    className="sc-bdnxRM hhOKzm"
+  />,
+  <div
+    className="sc-bdnxRM fmZhhZ"
+  />,
+  <div
+    className="sc-bdnxRM gJuksH"
+  />,
+  <div
+    className="sc-bdnxRM jDkucz"
+  />,
+]
+`;
