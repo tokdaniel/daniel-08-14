@@ -1,7 +1,6 @@
 import { useCallback, useState } from 'react'
 import styled from 'styled-components'
 
-import GroupingButtons from 'components/grouping-buttons/grouping-buttons'
 import { Loader } from 'components/loader'
 import { Spread } from 'components/spread'
 import { Text } from 'components/typography'
