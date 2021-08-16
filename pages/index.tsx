@@ -17,8 +17,6 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <OrderBook />
       </main>
-
-      <footer className={styles.footer}></footer>
     </div>
   )
 }
