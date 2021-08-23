@@ -43,7 +43,7 @@ Depends on the subject, but if we are talking about webapplications
 - Not specifically frontend but related: encrypted connection (https & Man in the Middle attack), Access-Control-Allow-Origin policy, 
 - Frontend things: Most attack vectors are related to user inputs, and text sanitization, so special care goes for every kind of user input, but modern frameworks make this hard thankfully. For example: SQL injection (in case of an SQL server), XSS, CSRF etc.
 
-## 6. How would you improve the Kraken API that you just used?
+## 6. How would you improve the API that you just used?
 
 - I'd probably return the types I've created called NBook which has the price as an object key in the result, since this makes its easier to update the current state with the delta, and it's also more efficient than using arrays.
 - Im also not sure about what kind of configuration can I send with the connection, but tweaking with the emit frequency should be nice. I'm not sure if there's an option to aggregate things on the backend until a new emit is happening, but it seems like the sample application updated around every second, so that would make things easier on the frontend.
